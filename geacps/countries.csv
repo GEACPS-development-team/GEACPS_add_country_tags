@@ -286,8 +286,6 @@ MEN,蒙古,185 255 152,Asia,アジア,バニラ
 
 MEX,メキシコ,104 152 83,South America,新大陸,バニラ
 
-MEZ,メッツォジョールノ,230 230 0,Western Europe,ヨーロッパ,バニラ
-
 MLD,モルディブ,204 0 102,Asia,アジア,バニラ
 
 MLI,マリ,20 181 58,Africa,アフリカ,バニラ
@@ -338,8 +336,6 @@ OMA,オマーン,98 134 153,Middle East,アジア,バニラ
 
 ORO,オロミア,255 77 77,Africa,アフリカ,バニラ
 
-PAD,パダニア,110 192 146,Western Europe,ヨーロッパ,バニラ
-
 PAK,パキスタン,1 65 28,Asia,アジア,バニラ
 
 PAL,パレスチナ,170 125 80,Middle East,アジア,バニラ
@@ -351,8 +347,6 @@ PAR,パラグアイ,57 113 228,South America,新大陸,バニラ
 PER,ペルシャ,71 113 97,Middle East,アジア,バニラ
 
 PHI,フィリピン,102 43 89,Asia,アジア,バニラ
-
-PIE,ピエモンテ,249 148 3,Western Europe,ヨーロッパ,バニラ
 
 PNG,パプアニューギニア,153 0 76,Asia,大洋州,バニラ
 
@@ -388,11 +382,15 @@ SEN,セネガル,76 165 64,Africa,アフリカ,バニラ
 
 SER,セルビア,12 64 118,Eastern Europe,ヨーロッパ,バニラ
 
+SHA,陝西,193 159 0,Asia,アジア,バニラ
+
 SHL,シュレースヴィヒ,51 51 255,Western Europe,ヨーロッパ,バニラ
 
 SHX,山西,226 188 35,Asia,アジア,バニラ
 
 SIA,シャム,171 190 152,Asia,アジア,バニラ
+
+SIC,シチリア,248 228 133,Western Europe,ヨーロッパ,バニラ
 
 SID,シダマ,102 102 255,Africa,アフリカ,バニラ
 
@@ -415,6 +413,8 @@ SOM,ソマリア,0 128 131,Africa,アフリカ,バニラ
 SOV,ソビエト,125 13 24,Eastern Europe,ヨーロッパ,バニラ
 
 SPR,スペイン,242 154 6,Western Europe,ヨーロッパ,バニラ
+
+SRD,サルディーニャ,0 49 165,Western Europe,ヨーロッパ,バニラ
 
 SRL,スリランカ,141 21 58,Asia,アジア,バニラ
 
@@ -484,13 +484,19 @@ VLG,ヴォルガ,147 143 4,Eastern Europe,ヨーロッパ,バニラ
 
 VOL,オートボルタ,180 170 170,Africa,アフリカ,バニラ
 
+VNC,ヴェネツィア,194 45 4,Western Europe,ヨーロッパ,バニラ
+
 WES,西サハラ,255 178 102,Africa,アフリカ,バニラ
 
 WGR,西ドイツ,128 128 128,Western Europe,ヨーロッパ,バニラ
 
+WIN,西インド,255 161 0,South America,新大陸,バニラ
+
 WLS,ウェールズ,0 171 57,Commonwealth,ヨーロッパ,バニラ
 
 WUR,ヴュルテンベルク,189 18 32,Western Europe,ヨーロッパ,バニラ
+
+XIB,西北,70 170 180,Asia,アジア,バニラ
 
 YAM,ヤマリア,0 128 255,Asia,アジア,バニラ
 
@@ -756,7 +762,7 @@ KAC,カチン,55 115 107,Asia,アジア,追加国家
 
 KAN,カンザス,133 138 44,Western Europe,アメリカ諸州,追加国家
 
-KAS,カシミール,255 0 0,Asia,アジア,追加国家
+KAS,カシミール,255 147 147,Asia,アジア,追加国家
 
 KAY,カヤー,30 30 70,Asia,アジア,追加国家
 
@@ -803,6 +809,8 @@ MCH,ミシガン,82 131 137,Western Europe,アメリカ諸州,追加国家
 MCO,モナコ,231 136 147,Western Europe,ヨーロッパ,追加国家
 
 MDR,マドリード,198 11 30,Western Europe,ヨーロッパ,追加国家
+
+MEZ,メッツォジョールノ,230 230 0,Western Europe,ヨーロッパ,追加国家
 
 MHL,マーシャル,221 117 0,Asia,大洋州,追加国家
 
@@ -886,6 +894,8 @@ ORE,オレゴン,153 158 62,Western Europe,アメリカ諸州,追加国家
 
 OTT,オスマン,203 32 39,Middle East,アジア,追加国家
 
+PAD,パダニア,110 192 146,Western Europe,ヨーロッパ,追加国家
+
 PAO,パオ,25 64 81,Asia,アジア,追加国家
 
 PAP,パプア,191 121 38,Asia,大洋州,追加国家
@@ -895,6 +905,8 @@ PCN,ピトケアン,0 110 199,Asia,大洋州,追加国家
 PCZ,パナマ運河地帯,33 49 127,South America,新大陸,追加国家
 
 PEN,ペンシルベニア,71 62 77,Western Europe,アメリカ諸州,追加国家
+
+PIE,ピエモンテ,249 148 3,Western Europe,ヨーロッパ,追加国家
 
 PLA,パラウン,220 42 38,Asia,アジア,追加国家
 
@@ -960,15 +972,11 @@ SGH,上海,255 213 9,Asia,アジア,追加国家
 
 SGR,南ドイツ,213 171 2,Western Europe,ヨーロッパ,追加国家
 
-SHA,陝西,193 159 0,Asia,アジア,追加国家
-
 SHD,山東,255 150 50,Asia,アジア,追加国家
 
 SHN,シャン,255 150 50,Asia,アジア,追加国家
 
 SIB,シベリア,0 94 0,Eastern Europe,ヨーロッパ,追加国家
-
-SIC,シチリア,248 228 133,Western Europe,ヨーロッパ,追加国家
 
 SIN,シンガポール,241 86 98,Asia,アジア,追加国家
 
@@ -991,8 +999,6 @@ SMR,サンマリノ,94 182 228,Western Europe,ヨーロッパ,追加国家
 SOA,南オセチア,255 88 85,Eastern Europe,アジア,追加国家
 
 SPM,サンピエール及びミクロン,0 146 200,Western Europe,新大陸,追加国家
-
-SRD,サルディーニャ,0 49 165,Western Europe,ヨーロッパ,追加国家
 
 SRW,サラワク,255 152 26,Asia,アジア,追加国家
 
@@ -1060,8 +1066,6 @@ VIE,ウィーン,237 41 57,Eastern Europe,ヨーロッパ,追加国家
 
 VIR,ヴァージン,100 61 151,South America,新大陸,追加国家
 
-VNC,ヴェネツィア,194 45 4,Western Europe,ヨーロッパ,追加国家
-
 VOJ,ヴォイヴォディナ,255 230 12,Eastern Europe,ヨーロッパ,追加国家
 
 VRG,バージニア,240 221 207,Western Europe,アメリカ諸州,追加国家
@@ -1073,8 +1077,6 @@ VUT,バヌアツ,93 76 7,Asia,大洋州,追加国家
 WAF,西アフリカ,134 38 56,Africa,アフリカ,追加国家
 
 WAS,ワシントン,0 132 87,Western Europe,アメリカ諸州,追加国家
-
-WIN,西インド,255 161 0,South America,新大陸,追加国家
 
 WIW,ウィンドワード,118 102 37,South America,新大陸,追加国家
 
