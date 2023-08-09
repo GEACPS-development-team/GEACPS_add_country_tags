@@ -1,2 +1,0 @@
-capital = 848
-set_dictatorship = yes
