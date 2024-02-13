@@ -44,7 +44,7 @@ BRM,republic,,共和国
 
 BRM,state,,国
 
-BRM,union,,連邦
+BRM,union,,連合
 
 BRM,union_socialist_republic,,連邦社会主義共和国
 
@@ -172,7 +172,7 @@ MAL,federated_states,,連邦
 
 MAL,federation,,連邦
 
-MAL,union,,連邦
+MAL,union,,連合
 
 MAN,empire,,帝国
 
@@ -376,7 +376,7 @@ BUL,republic,,共和国
 
 BUL,tsardom,,・ツァール国
 
-CAT,principality,,君主国
+CAT,principality,,公国
 
 CAT,republic,,共和国
 
@@ -750,7 +750,7 @@ AFA,emirate,,首長国
 
 AFA,republic,,共和国
 
-ALG,peoples_democratic_republic,,民主人民共和国
+ALG,peoples_democratic_republic,,人民民主共和国
 
 ALG,republic,,共和国
 
@@ -904,7 +904,7 @@ RWA,republic,,共和国
 
 SAF,republic,,共和国
 
-SAF,union,,連邦
+SAF,union,,連合
 
 SEN,republic,,共和国
 
